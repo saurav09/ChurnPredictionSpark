@@ -1,7 +1,6 @@
 # ChurnPredictionSpark
-Predicts customer churn 
 
-An application to predict customers churn. 
+An Apache Spark application to predict customers churn. 
 
-Apache Spark version used - 1.6
-ML library used - Spark MLlib </br>
+Apache Spark version used - 1.6 </br>
+ML library used - Spark MLlib
